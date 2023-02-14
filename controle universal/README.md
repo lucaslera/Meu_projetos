@@ -27,4 +27,4 @@ Como contribuir
 Se você deseja contribuir para o desenvolvimento do controle universal para TV Roku com Net-Claro, basta criar um fork do repositório e enviar um pull request com suas alterações.
 
 Autor
-Este projeto foi desenvolvido por [seu nome aqui].
+Este projeto foi desenvolvido por Lucas Henrique Marinho Lera.
