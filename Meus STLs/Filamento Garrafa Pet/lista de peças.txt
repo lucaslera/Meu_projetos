@@ -1,0 +1,47 @@
+3D MODEL DESCRIPTION
+Simple and cheap machine for making PET filament form used PET bottles.
+Project homepage and forum: https://petamentor.com
+https://youtu.be/79gkUiH3ipE
+PARTS:
+Thermometer
+Aliexpress: https://s.click.aliexpress.com/e/_A1IPRl
+Amzazon: https://petamentor.com/frcamp_pet-am-theromometer.php
+
+12V DC motor (7RPM)
+Aliexpress: https://s.click.aliexpress.com/e/_An6w65
+Amzazon: https://petamentor.com/frcamp_pet-am-dcmotor.php
+
+Heat Block
+Aliexpress: https://s.click.aliexpress.com/e/_ArQTp9
+https://petamentor.com/frcamp_pet-am-heatblock.php
+
+Heater 12V (40W)
+Aliexpress: https://s.click.aliexpress.com/e/_AWBURX
+https://petamentor.com/frcamp_pet-am-heater.php
+
+Power Supply 12V
+Aliexpress: https://s.click.aliexpress.com/e/_AoZqWT
+Amzazon: https://petamentor.com/frcamp_pet-am-psu.php
+
+PWM Regulator 12V 5A
+Aliexpress: https://s.click.aliexpress.com/e/_AsapF1
+Amzazon: https://petamentor.com/frcamp_pet-am-pwm.php
+
+Diode 1N5408
+Aliexpress: hhttps://s.click.aliexpress.com/e/_AZzuLz
+Amzazon: https://petamentor.com/frcamp_pet-am-diode.php
+
+W1209
+Aliexpress: https://s.click.aliexpress.com/e/_A47iI5
+Amzazon: https://petamentor.com/frcamp_pet-am-w1209.php
+
+100K Thermistor
+Aliexpress: https://s.click.aliexpress.com/e/_AArq9T
+Amzazon: https://petamentor.com/frcamp_pet-am-thermistor.php
+
+Color Switches
+Aliexpress: https://s.click.aliexpress.com/e/_AP6eKn
+Amzazon: https://petamentor.com/frcamp_pet-am-colorswitches.php
+
+3D PRINTING SETTINGS
+use 100% infill and 230C for printing motor joint part (there is lot of torque) 😉👍
